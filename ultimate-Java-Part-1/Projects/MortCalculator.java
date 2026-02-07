@@ -1,6 +1,11 @@
+/*
+This program calculates user's mortgage
+@ Author Abel Megersa
+@ Date 02/06/2026
+ */
+
 import java.text.NumberFormat;
 import java.util.Scanner;
-import java.math.MathContext;
 
 public class MortCalculator {
 
